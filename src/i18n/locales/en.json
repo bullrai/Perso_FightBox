@@ -1,0 +1,99 @@
+{
+  "app": {
+    "title": "Arcade Controller Builder",
+    "subtitle": "Design your perfect arcade controller",
+    "footer": {
+      "copyright": "© {{year}} Arcade Controller Builder",
+      "localSave": "All designs are saved locally in your browser"
+    }
+  },
+  "controller": {
+    "currentDesign": "Current Design",
+    "canvas": {
+      "title": "Controller Design",
+      "help": "Click on a button to select it. Click and drag to move it."
+    },
+    "editor": {
+      "title": "Layout Settings",
+      "name": "Controller Name",
+      "joystickLayout": "Joystick/Directional Layout",
+      "actionButtonLayout": "Action Buttons Layout",
+      "optionButtonLayout": "Option Buttons Layout",
+      "optionButtonsHelp": "Option buttons include Start, Select, Menu, etc.",
+      "caseColor": "Case Color"
+    }
+  },
+  "buttons": {
+    "editor": {
+      "title": "Button Editor",
+      "noButtons": "No buttons have been added",
+      "directional": "Directional Buttons",
+      "action": "Action Buttons",
+      "option": "Option Buttons",
+      "noButtonsInCategory": "No buttons in this category"
+    },
+    "add": "Add Button",
+    "types": {
+      "joystick": {
+        "title": "Joystick",
+        "description": "Analog directional control"
+      },
+      "directional": {
+        "title": "Directional Button",
+        "description": "Hitbox style directional buttons"
+      },
+      "action": {
+        "title": "Action Button",
+        "description": "Main buttons for game actions"
+      },
+      "option": {
+        "title": "Option Button",
+        "description": "Secondary buttons (Start, Select, etc.)"
+      }
+    },
+    "selector": {
+      "title": "Choose a button type",
+      "cancel": "Cancel"
+    },
+    "colors": {
+      "black": "Black",
+      "white": "White",
+      "red": "Red",
+      "blue": "Blue",
+      "green": "Green",
+      "yellow": "Yellow",
+      "purple": "Purple",
+      "orange": "Orange",
+      "pink": "Pink",
+      "cyan": "Cyan"
+    },
+    "position": "Position"
+  },
+  "export": {
+    "title": "Export Design",
+    "import": "Import",
+    "save": "Save",
+    "saveConfig": {
+      "title": "Save Configuration",
+      "name": "Configuration Name",
+      "cancel": "Cancel",
+      "save": "Save"
+    }
+  },
+  "tabs": {
+    "controller": "Controller",
+    "buttons": "Buttons",
+    "export": "Export",
+    "saved": "Saved"
+  },
+  "saved": {
+    "title": "Saved Configurations",
+    "noConfigs": "No saved configurations yet",
+    "buttons": "buttons",
+    "load": "Load configuration",
+    "delete": "Delete configuration"
+  },
+  "language": {
+    "select": "Select Language"
+  }
+}

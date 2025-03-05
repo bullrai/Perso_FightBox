@@ -1,0 +1,99 @@
+{
+  "app": {
+    "title": "Créateur de Manette d'Arcade",
+    "subtitle": "Concevez votre manette d'arcade parfaite",
+    "footer": {
+      "copyright": "© {{year}} Créateur de Manette d'Arcade",
+      "localSave": "Tous les designs sont sauvegardés localement dans votre navigateur"
+    }
+  },
+  "controller": {
+    "currentDesign": "Design Actuel",
+    "canvas": {
+      "title": "Design de la Manette",
+      "help": "Cliquez sur un bouton pour le sélectionner. Cliquez et faites glisser pour le déplacer."
+    },
+    "editor": {
+      "title": "Paramètres de Disposition",
+      "name": "Nom de la Manette",
+      "joystickLayout": "Disposition du Joystick/Directionnel",
+      "actionButtonLayout": "Disposition des Boutons d'Action",
+      "optionButtonLayout": "Disposition des Boutons d'Option",
+      "optionButtonsHelp": "Les boutons d'option incluent Start, Select, Menu, etc.",
+      "caseColor": "Couleur du Boîtier"
+    }
+  },
+  "buttons": {
+    "editor": {
+      "title": "Édition des boutons",
+      "noButtons": "Aucun bouton n'a été ajouté",
+      "directional": "Boutons Directionnels",
+      "action": "Boutons d'Action",
+      "option": "Boutons d'Option",
+      "noButtonsInCategory": "Aucun bouton dans cette catégorie"
+    },
+    "add": "Ajouter un Bouton",
+    "types": {
+      "joystick": {
+        "title": "Joystick",
+        "description": "Contrôle directionnel analogique"
+      },
+      "directional": {
+        "title": "Bouton Directionnel",
+        "description": "Boutons directionnels style Hitbox"
+      },
+      "action": {
+        "title": "Bouton d'Action",
+        "description": "Boutons principaux pour les actions de jeu"
+      },
+      "option": {
+        "title": "Bouton d'Option",
+        "description": "Boutons secondaires (Start, Select, etc.)"
+      }
+    },
+    "selector": {
+      "title": "Choisir un type de bouton",
+      "cancel": "Annuler"
+    },
+    "colors": {
+      "black": "Noir",
+      "white": "Blanc",
+      "red": "Rouge",
+      "blue": "Bleu",
+      "green": "Vert",
+      "yellow": "Jaune",
+      "purple": "Violet",
+      "orange": "Orange",
+      "pink": "Rose",
+      "cyan": "Cyan"
+    },
+    "position": "Position"
+  },
+  "export": {
+    "title": "Exporter le Design",
+    "import": "Importer",
+    "save": "Sauvegarder",
+    "saveConfig": {
+      "title": "Sauvegarder la Configuration",
+      "name": "Nom de la Configuration",
+      "cancel": "Annuler",
+      "save": "Sauvegarder"
+    }
+  },
+  "tabs": {
+    "controller": "Manette",
+    "buttons": "Boutons",
+    "export": "Exporter",
+    "saved": "Sauvegardés"
+  },
+  "saved": {
+    "title": "Configurations Sauvegardées",
+    "noConfigs": "Aucune configuration sauvegardée pour le moment",
+    "buttons": "boutons",
+    "load": "Charger la configuration",
+    "delete": "Supprimer la configuration"
+  },
+  "language": {
+    "select": "Sélectionner la Langue"
+  }
+}
